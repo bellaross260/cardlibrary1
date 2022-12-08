@@ -1,0 +1,13 @@
+games,ideal_amount_of_players,player_range_low,player_range_high,house,speed,bluffing,bet
+Solitaire,1,1,1,n,n,n,y
+BlackJack,4,2,10,y,n,n,n
+Pitch,1,1,1,y,y,n,n
+Poker,1,1,1,y,y,n,n
+ERS,7,2,10,n,y,n,n
+Spoons,7,3,10,n,y,y,n
+BS,7,3,10,n,y,y,y
+Rumy cubed,4,2,10,n,n,y,n
+Gin rumy,2,2,2,n,n,y,y
+Spit,2,2,2,n,y,n,n
+Go fish,5,3,10,n,n,y,y
+Old maid,2,2,10,n,n,y,y
